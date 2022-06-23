@@ -1,0 +1,35 @@
+.navbar-brand {
+    font-size: 12px;
+}
+
+
+
+.flex-container{
+    display: flex;
+    background-color: white;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.flex-container > div {
+    background-color: rgb(191, 191, 224);
+    width: fit-content;
+    text-align: center;
+    margin: 70px;
+    padding: 70px;
+    border-radius: 50px;
+    border-style: solid;
+}
+
+.rounded-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+}
+
+img.top {
+    vertical-align: middle;
+}
