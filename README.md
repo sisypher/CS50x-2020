@@ -14,10 +14,16 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 - [Week 6: Python](#week-6)
 - [Week 7: SQL](#week-7)
 - [Week 8: Information](#week-8)
-- [Web Track](#web-track)
+- [Week 9: Web Track](#web-track)
 - Final Project
 
-## Week 1
+## Week 0 `[Theme: Basics of Programming]`
+
+### Problem Set 0
+
+- Scratch: [Milo's Space Adventure](https://scratch.mit.edu/projects/572955125)
+
+## Week 1 `[Theme: Basics of C, Greedy Algorithm, Cryptography]`
 
 ### Problem Set 1
 
@@ -26,39 +32,39 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 - [Cash](pset1/cash/cash.c)
 - [Credit](pset1/credit/credit.c)
 
-## Week 2
+## Week 2 `[Theme: Arrays, Cryptography, Encryption]`
 
-### Problem set 2
+### Problem Set 2
 
 - [Readability](pset2/readability/readability.c)
 - [Caesar](pset2/caesar/caesar.c)
 - [Substitution](pset2/substitution/substitution.c)
 
-## Week 3
+## Week 3 `[Theme: Algorithms, Graph Theory Basics]`
 
-### Problem set 3
+### Problem Set 3
 
 - [Plurality](pset3/plurality/plurality.c)
 - [Runoff](pset3/runoff/runoff.c)
 - [Tideman](pset3/tideman/tideman.c)
 
-## Week 4
+## Week 4 `[Theme: Memory organization, Pointers, Image filters, File manipulation & Data Recovery]`
 
-### Problem set 4
+### Problem Set 4
 
 - [Filter (Less Comfortable Version)](pset4/filter/less/helpers.c)
 - [Filter (More Comfortable Version)](pset4/filter/more/helpers.c)
 - [Recover](pset4/recover/recover.c)
 
-## Week 5
+## Week 5 `[Theme: Data Structures]`
 
-### Problem set 5
+### Problem Set 5
 
 - [Speller](pset5/speller/dictionary.c)
 
-## Week 6
+## Week 6 `[Theme: Basics of Python, Forensics, Probability]`
 
-### Problem set 6
+### Problem Set 6
 
 - [Hello - Python](pset6/hello/hello.py)
 - [Mario (Less Comfortable Version) - Python](pset6/mario/less.py)
@@ -68,21 +74,21 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 - [Readability - Python](pset6/readability/readability.py)
 - [DNA](pset6/dna/dna.py)
 
-## Week 7
+## Week 7 `[Theme: SQLite, Database querying, Crime Investigation]`
 
-### Problem set 7
+### Problem Set 7
 
 - [Movies](pset7/movies)
 - [fiftyville](pset7/fiftyville)
 
-## Week 8
+## Week 8 `[Theme: Basics of HTML, CSS, Javascript, DOM]`
 
-### Problem set 8
+### Problem Set 8
 
 - [Homepage](pset8/homepage)
 
-## Week 9
+## Week 9: Web Track `[Theme: Flask, Python revisited, Jinja, Equity Markets(Stocks)]`
 
-### Problem set 9
+### Problem Set 9
 
 - [Finance](pset9/finance)
