@@ -20,7 +20,7 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 - [Week 7: SQL](#week-7)
 - [Week 8: Information](#week-8)
 - [Week 9: Web Track](#web-track)
-- Final Project
+- [Final Project](#final-project)
 
 ## Week 0
 
@@ -117,3 +117,9 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 ### Problem Set 9
 
 - [Finance](pset9/finance)
+
+## Final Project
+
+- AstroBot
+  A Discord Bot for Every Space Enthusaist.
+  **Video Demo:** https://youtu.be/CD3tueGtBas
