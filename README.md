@@ -120,7 +120,8 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 
 ## Final Project
 
-_AstroBot_
+_AstroBot 👾_
 
 A Discord Bot for Every Space Enthusaist.
+
 **Video Demo:** https://youtu.be/CD3tueGtBas
