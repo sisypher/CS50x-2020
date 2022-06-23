@@ -100,7 +100,7 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 ### Problem Set 7
 
 - [Movies](pset7/movies)
-- [fiftyville](pset7/fiftyville)
+- [Fiftyville](pset7/fiftyville)
 
 ## Week 8
 
