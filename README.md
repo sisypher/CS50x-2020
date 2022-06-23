@@ -85,4 +85,4 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 
 ### Problem set 9
 
-- [Finance](week9/pset9/finance)
+- [Finance](pset9/finance)
