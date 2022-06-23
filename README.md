@@ -1,5 +1,9 @@
 # CS50x-2020
 
+![CS50x Certificate](CS50xCertificate.png)
+
+[Certificate Link](https://certificates.cs50.io/ea884a9c-311b-4833-879e-69e6069fccab.pdf?size=letter)
+
 These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.harvard.edu/x/2020/)
 
 > A quick word on [Academic Honesty](https://cs50.harvard.edu/x/2020/honesty/). While these solutions will help you to get through the course without too much effort, you should do your best to figure out a working solution yourself before taking a look at any of my solutions. Investing your time and energy into solving the problem sets yourself is in my opinion the only way to eventual mastery.
@@ -59,7 +63,7 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 
 ## Week 4
 
-`[Theme: Memory organization, Pointers, Image filters, File manipulation & Data Recovery]`
+`[Theme: Memory Organization, Pointers, Image Filters, File Manipulation & Data Recovery]`
 
 ### Problem Set 4
 
@@ -91,7 +95,7 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 
 ## Week 7
 
-`[Theme: SQLite, Database querying, Crime Investigation]`
+`[Theme: SQLite, Database Query, Crime Investigation]`
 
 ### Problem Set 7
 
@@ -108,7 +112,7 @@ These are my solutions to the problem sets of [Harvard's CS50x](https://cs50.har
 
 ## Week 9: Web Track
 
-`[Theme: Flask, Python revisited, Jinja, Equity Markets(Stocks)]`
+`[Theme: Flask, Python, Jinja, Equity Markets(Stocks)]`
 
 ### Problem Set 9
 
